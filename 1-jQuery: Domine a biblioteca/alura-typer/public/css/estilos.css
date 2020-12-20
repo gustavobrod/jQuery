@@ -1,0 +1,26 @@
+.frase{
+    font-size: 20px;
+    text-align: left;
+    border: 3px solid black;
+}
+
+.campo-digitacao{
+    font-size: 20px;
+    height: 150px;
+}
+
+.campo-desativado{
+    background-color: lightgray;
+}
+
+.icones{
+    vertical-align: middle;
+}
+
+.correto{
+    border: 5px solid green;
+}
+
+.errado{
+    border: 5px solid red;
+}
