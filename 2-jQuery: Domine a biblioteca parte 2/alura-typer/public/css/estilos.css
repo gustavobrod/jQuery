@@ -30,5 +30,35 @@
 }
 
 body{
-    overflow:scroll;
+    overflow: scroll;
+}
+
+#erro{
+    color: red;
+    display: none;
+}
+
+#spinner{
+    display: none;
+}
+
+#frase-id{
+    width: 50px;
+}
+
+#botao-sync{
+    float: right;
+}
+
+.select-usuarios{
+    display: inline-block;
+}
+
+.selectize-input{
+    width:150px;
+    vertical-align: middle;
+}
+
+#usuarios{
+    display: block;
 }
